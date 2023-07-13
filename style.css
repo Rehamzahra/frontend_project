@@ -1,0 +1,409 @@
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding-top: 10px;
+    overflow: hidden;
+    background-color: #dc970c;
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    top: 0;
+
+}
+.zahra {
+    color: rgb(106, 234, 149);
+    font-weight: 800px;
+    font-size: 20px;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #f0cf56;
+}
+li a.active {
+    color: white;
+    background-color: #f0cf56;
+}
+.sb-search-input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 900px;
+    width: 200px;
+    height: 40px;
+    background-color: #f0cf56;
+    border-color: rgb(151, 148, 148);
+    border-top-color: rgb(240, 242, 244);
+    border-left-color: rgb(240, 242, 244);
+    border-radius: 30px;
+}
+
+.card {
+    background-image: url("images/ra.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+
+.nat {
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: 300;
+}
+
+.ice {
+    align-items: center;
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.btn1 {
+    width: 250px;
+    height: 50px;
+    border-color: rgb(45, 212, 101);
+    color: white;
+    border-radius: 30px;
+    margin-left: 500px;
+    font-size: 20px;
+    background: rgb(25, 167, 73);
+}
+
+.btn1:hover {
+    background-color: #06ef0e;
+}
+
+.btn2 {
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 20px;
+    font-size: 20px;
+    background: white;
+}
+
+.btn2:hover {
+    background-color: #b0f1b2;
+}
+
+.sec1 {
+    width: 100%;
+    height: 500px;
+}
+
+.sahm {
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(25, 167, 73);
+    position: fixed;
+}
+
+.sam {
+    width: 40px;
+    height: 40px;
+    margin-left: 1450px;
+}
+
+body {
+    margin: auto;
+}
+
+.contener {
+    background-image: url("images/w.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 748px;
+    background-position: 700px;
+    margin-bottom: 30px;
+}
+
+.par {
+    color: white;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+h2 {
+    padding-right: 200px;
+    color: azure;
+}
+
+.sec2 {
+    width: 550px;
+    height: 750px;
+    padding-left: 200px;
+    background-color: #f0cf56;
+}
+
+.btt {
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: rgb(45, 212, 101);
+    color: white;
+    font-size: 30px;
+    background: rgb(25, 167, 73);
+}
+
+.btt:hover {
+    background-color: #06ef0e;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.content {
+    background-image: url("images/ic3.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 748px;
+    background-position: 600px;
+    margin-bottom: 30px;
+}
+
+.sec3 {
+    width: 450px;
+    height: 748px;
+    padding-left: 180px;
+    background-color: #f0cf56;
+}
+
+#r1:hover {
+    color: gray;
+}
+
+#r2:hover {
+    color: gray;
+}
+
+#r3:hover {
+    color: gray;
+}
+
+#r1:visited {
+    color: #DC32BE;
+}
+
+.parent {
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+}
+
+.test {
+    display: inline-block;
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img1 {
+    font: 1em sans-serif;
+}
+
+.img2 {
+    font: 1em sans-serif;
+}
+
+.img3 {
+    font: 1em sans-serif;
+}
+
+.img4 {
+    font: 1em sans-serif;
+}
+
+.p1 {
+    font-size: 30px;
+}
+
+.p2 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.ima:hover {
+    transition: .5s;
+    transform: scale(1.5);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.cooking {
+    font-size: 70px;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.card2 {
+    background-image: url("images/mash.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    background-position: 780px;
+    margin-bottom: 30px;
+}
+
+.sec4 {
+    width: 550px;
+    height: 700px;
+    padding-left: 200px;
+    padding-top: 20px;
+    background-color: white;
+}
+
+.cook {
+    width: 100%;
+    height: 700px;
+}
+
+.fresh {
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(19, 91, 19);
+}
+
+.fre {
+    width: 250px;
+}
+
+.bt {
+    border-radius: 125px;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+    font-weight: 800;
+    color: white;
+    background-color: rgb(25, 167, 73);
+    border-color: rgb(25, 167, 73);
+}
+
+.food {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.samp {
+    font-size: 20px;
+    color: gray;
+}
+
+.follow {
+    width: 100%;
+    height: 500px;
+    background-color: #f0cf56;
+    color: white;
+}
+
+.sub {
+    font-size: 60px;
+    font-weight: 800;
+    color: white;
+}
+
+.mail {
+    border-radius: 20px;
+    width: 500px;
+    height: 35px;
+    background-color: #f0cf56;
+    border-color: rgb(25, 167, 73);
+    border-width: 3px;
+    border-top-color: rgb(74, 238, 126);
+    border-left-color: rgb(74, 238, 126);
+}
+
+.btsub {
+    border-radius: 20px;
+    width: 520px;
+    height: 40px;
+    background-color: rgb(25, 167, 73);
+    border-bottom-color: rgb(74, 238, 126);
+    border-color: rgb(25, 167, 73);
+    font-size: 20PX;
+    color: white;
+}
+
+.btsub:hover {
+    background-color: #06ef0e;
+}
+
+.imag:hover {
+    color: white;
+}
+
+.subscribe {
+    width: 450px;
+    height: 450px;
+    background-color: #f0cf56;
+}
+
+.end {
+    background-color: rgb(67, 60, 60);
+    width: 100%;
+    height: 200px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*.container {
+    width: 400px;
+    margin: auto;
+    overflow: hidden;
+}*/
+
+.container {
+    display: inline;
+    margin: 200px;
+}
+
+.im {
+
+    display: inline-block;
+    padding: 20px;
+}
+
+.ima1 {
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+}
+
+.ima2 {
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+}
+
+.ima3 {
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+}
+
+.im:hover {
+    transition: .5s;
+    transform: scale(1.2);
+}
